@@ -80,7 +80,7 @@ header {
   width: 100%;
   .container {
     @include flexbox();
-    @include justify-content(center);
+    @include justify-content(space-between);
     padding: 0.5rem 1rem;
     width: calc(100% - 2rem);
   }
@@ -88,6 +88,11 @@ header {
 
 .logo {
   max-height: 48px;
+}
+
+.buy-me-a-coffee {
+  height: 48px;
+  width: 175px;
 }
 
 /* Timer.js
