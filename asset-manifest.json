@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-browntimer/static/css/main.e2cf33df.chunk.css",
-    "main.js": "/react-browntimer/static/js/main.8500d05d.chunk.js",
-    "main.js.map": "/react-browntimer/static/js/main.8500d05d.chunk.js.map",
+    "main.css": "/react-browntimer/static/css/main.71537b5b.chunk.css",
+    "main.js": "/react-browntimer/static/js/main.d3c946db.chunk.js",
+    "main.js.map": "/react-browntimer/static/js/main.d3c946db.chunk.js.map",
     "runtime-main.js": "/react-browntimer/static/js/runtime-main.b212c054.js",
     "runtime-main.js.map": "/react-browntimer/static/js/runtime-main.b212c054.js.map",
     "static/js/2.a5bdaeee.chunk.js": "/react-browntimer/static/js/2.a5bdaeee.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.421bc232.chunk.js": "/react-browntimer/static/js/3.421bc232.chunk.js",
     "static/js/3.421bc232.chunk.js.map": "/react-browntimer/static/js/3.421bc232.chunk.js.map",
     "index.html": "/react-browntimer/index.html",
-    "static/css/main.e2cf33df.chunk.css.map": "/react-browntimer/static/css/main.e2cf33df.chunk.css.map",
+    "static/css/main.71537b5b.chunk.css.map": "/react-browntimer/static/css/main.71537b5b.chunk.css.map",
     "static/js/2.a5bdaeee.chunk.js.LICENSE.txt": "/react-browntimer/static/js/2.a5bdaeee.chunk.js.LICENSE.txt",
     "static/media/browntimer.10f99b3b.svg": "/react-browntimer/static/media/browntimer.10f99b3b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b212c054.js",
     "static/js/2.a5bdaeee.chunk.js",
-    "static/css/main.e2cf33df.chunk.css",
-    "static/js/main.8500d05d.chunk.js"
+    "static/css/main.71537b5b.chunk.css",
+    "static/js/main.d3c946db.chunk.js"
   ]
 }
